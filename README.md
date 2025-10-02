@@ -1,2 +1,2 @@
-# Ripple Effect Protocols
+# Ripple Effect Protocol
 Helping agents coordinate, not just communicate.
